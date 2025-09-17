@@ -48,5 +48,7 @@ php -S localhost:8765 -t webroot
 
 <img width="931" height="360" alt="Снимок экрана 2025-09-17 122401" src="https://github.com/user-attachments/assets/98f4d448-7162-4123-9581-ec2e673131b7" />
 
+<img width="370" height="218" alt="Снимок экрана 2025-09-17 122411" src="https://github.com/user-attachments/assets/ab9874bc-98f4-4d54-936c-4a62e71c4a55" />
+
 <img width="916" height="419" alt="Снимок экрана 2025-09-17 122535" src="https://github.com/user-attachments/assets/ea4fa51d-cd6a-48d9-a8e2-55aff78a83f9" />
 
